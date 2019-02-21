@@ -1,1 +1,2 @@
-"# rsschool-2019Q1-html-css" 
+Olga Revina
+HTML CSS Basics: https://www.codecademy.com/users/OlgaRevina/achievements
